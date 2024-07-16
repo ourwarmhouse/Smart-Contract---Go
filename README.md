@@ -4,7 +4,7 @@
   Pion WebRTC
   <br>
 </h1>
-<h4 align="center">A pure Go implementation of the WebRTC API</h4>
+<h4 align="center">A pure Go implementation of the Smart Contract</h4>
 <p align="center">
   <a href="https://pion.ly"><img src="https://img.shields.io/badge/pion-webrtc-gray.svg?longCache=true&colorB=brightgreen" alt="Pion WebRTC"></a>
   <a href="https://sourcegraph.com/github.com/pion/webrtc?badge"><img src="https://sourcegraph.com/github.com/pion/webrtc/-/badge.svg" alt="Sourcegraph Widget"></a>
